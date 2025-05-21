@@ -1,2 +1,2 @@
-# PYGAME
- Some test - projects of platformers
+# PYGAME Thanks Udemy
+ Some test/Zombie platformer
